@@ -1,0 +1,28 @@
+C:\dotnet app\App\bin\Debug\net8.0\DotNet.Docker.exe
+C:\dotnet app\App\bin\Debug\net8.0\DotNet.Docker.deps.json
+C:\dotnet app\App\bin\Debug\net8.0\DotNet.Docker.runtimeconfig.json
+C:\dotnet app\App\bin\Debug\net8.0\DotNet.Docker.dll
+C:\dotnet app\App\bin\Debug\net8.0\DotNet.Docker.pdb
+C:\dotnet app\App\obj\Debug\net8.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet app\App\obj\Debug\net8.0\DotNet.Docker.AssemblyInfoInputs.cache
+C:\dotnet app\App\obj\Debug\net8.0\DotNet.Docker.AssemblyInfo.cs
+C:\dotnet app\App\obj\Debug\net8.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\dotnet app\App\obj\Debug\net8.0\DotNet.Docker.dll
+C:\dotnet app\App\obj\Debug\net8.0\refint\DotNet.Docker.dll
+C:\dotnet app\App\obj\Debug\net8.0\DotNet.Docker.pdb
+C:\dotnet app\App\obj\Debug\net8.0\DotNet.Docker.genruntimeconfig.cache
+C:\dotnet app\App\obj\Debug\net8.0\ref\DotNet.Docker.dll
+C:\CNA_Project\App\bin\Debug\net8.0\DotNet.Docker.exe
+C:\CNA_Project\App\bin\Debug\net8.0\DotNet.Docker.deps.json
+C:\CNA_Project\App\bin\Debug\net8.0\DotNet.Docker.runtimeconfig.json
+C:\CNA_Project\App\bin\Debug\net8.0\DotNet.Docker.dll
+C:\CNA_Project\App\bin\Debug\net8.0\DotNet.Docker.pdb
+C:\CNA_Project\App\obj\Debug\net8.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\CNA_Project\App\obj\Debug\net8.0\DotNet.Docker.AssemblyInfoInputs.cache
+C:\CNA_Project\App\obj\Debug\net8.0\DotNet.Docker.AssemblyInfo.cs
+C:\CNA_Project\App\obj\Debug\net8.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\CNA_Project\App\obj\Debug\net8.0\DotNet.Docker.dll
+C:\CNA_Project\App\obj\Debug\net8.0\refint\DotNet.Docker.dll
+C:\CNA_Project\App\obj\Debug\net8.0\DotNet.Docker.pdb
+C:\CNA_Project\App\obj\Debug\net8.0\DotNet.Docker.genruntimeconfig.cache
+C:\CNA_Project\App\obj\Debug\net8.0\ref\DotNet.Docker.dll
